@@ -1,41 +1,127 @@
-<h2 align="left">Hi! I'm Sávio 😁</h2>
+Me chamo <strong>Sávio Marques</strong>, tenho 23 anos e sou natural de Fortaleza. Atualmente curso Ciência da Computação na Federal do Ceará. Sou apaixonado por tecnologia, curioso sobre Hardware e gosto e sigo estudando para me aperfeiçoar meu conhecimento.
+ 
+#
 
-###
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Savio-Marques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Savio-Marques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">Contatos</h3>
 
-###
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:saviomarquessouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Savio-Marques/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+#
 
-###
+<h3 align="left">Linguagens</h3>
 
-<div align="left">
-  <a href="www.linkedin.com/in/savio-marques" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="saviomarquessouza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
-###
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Typescript"
+    title="Typescript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+</br>
+
+#
+
+<h3 align="left">Frameworks</h3>
+
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+</br>
+
+#
+
+<h3 align="left">Banco de dados</h3>
+
+<img
+    align="left"
+    alt="Postgres"
+    title="Postgres"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Oracle Cloud"
+    title="Oracle Cloud"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+/>
+<br/>
+<br/>
+
+<h3 align="left">GitHub Stats</h3>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-one-amber-87.vercel.app/api?username=Savio-Marques&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-one-amber-87.vercel.app/api/top-langs/?username=Savio-Marques&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
